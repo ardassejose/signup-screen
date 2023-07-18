@@ -140,6 +140,7 @@ input {
   transition: all 0.3s ease;
   bottom: 2px;
   left: 2px;
+  margin-top: 15px;
 }
 
 
